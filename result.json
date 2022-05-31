@@ -1,0 +1,276 @@
+{
+  "kusama": {
+    "accountById": {
+      "id": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+      "transfers": [
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "DpExh9RyJZdye1LNw2JXKNRefDuC5hVhq8XGnYD7wwJJBQQ",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-22T16:04:48.001000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "DpExh9RyJZdye1LNw2JXKNRefDuC5hVhq8XGnYD7wwJJBQQ",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-20T15:44:12.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "DpExh9RyJZdye1LNw2JXKNRefDuC5hVhq8XGnYD7wwJJBQQ",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-18T16:09:12.000000Z"
+          }
+        },
+        {
+          "direction": "TO",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-18T16:04:54.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-18T16:04:54.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-18T15:32:24.000000Z"
+          }
+        },
+        {
+          "direction": "TO",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "success": true,
+            "amount": "20000000000000000",
+            "timestamp": "2020-08-18T15:32:24.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "DpExh9RyJZdye1LNw2JXKNRefDuC5hVhq8XGnYD7wwJJBQQ",
+            "success": true,
+            "amount": "10000000000000000",
+            "timestamp": "2020-08-18T13:26:42.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "DpExh9RyJZdye1LNw2JXKNRefDuC5hVhq8XGnYD7wwJJBQQ",
+            "success": true,
+            "amount": "10000000000000000",
+            "timestamp": "2020-08-17T18:18:00.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s",
+            "toId": "DpExh9RyJZdye1LNw2JXKNRefDuC5hVhq8XGnYD7wwJJBQQ",
+            "success": true,
+            "amount": "7677000000000000",
+            "timestamp": "2020-08-17T17:36:30.000000Z"
+          }
+        }
+      ]
+    }
+  },
+  "polkadot": {
+    "accountById": {
+      "id": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+      "transfers": [
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "14rCAVdFmbG8QN6MWyeAPHtyM9MbjqxHGDJGBXbcZFkmmYvT",
+            "success": true,
+            "amount": "62300000000000",
+            "timestamp": "2021-11-13T02:11:12.002000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "14rCAVdFmbG8QN6MWyeAPHtyM9MbjqxHGDJGBXbcZFkmmYvT",
+            "success": true,
+            "amount": "563750000000000",
+            "timestamp": "2021-11-10T17:26:48.001000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "14rCAVdFmbG8QN6MWyeAPHtyM9MbjqxHGDJGBXbcZFkmmYvT",
+            "success": true,
+            "amount": "9500000000000000",
+            "timestamp": "2021-11-10T16:22:36.002000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "14rCAVdFmbG8QN6MWyeAPHtyM9MbjqxHGDJGBXbcZFkmmYvT",
+            "success": true,
+            "amount": "128850000000000",
+            "timestamp": "2021-11-09T07:24:00.003000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "14rCAVdFmbG8QN6MWyeAPHtyM9MbjqxHGDJGBXbcZFkmmYvT",
+            "success": true,
+            "amount": "2077200000000000",
+            "timestamp": "2021-11-05T09:24:36.016000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "14rCAVdFmbG8QN6MWyeAPHtyM9MbjqxHGDJGBXbcZFkmmYvT",
+            "success": true,
+            "amount": "20000000000",
+            "timestamp": "2021-11-05T09:24:00.002000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "16AF7zYfPCPN6J7XsQGqRVoDqrnfdLz2roXWCSxGgQMEVgLq",
+            "success": true,
+            "amount": "209880000000000",
+            "timestamp": "2021-06-27T16:24:00.001000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "16AF7zYfPCPN6J7XsQGqRVoDqrnfdLz2roXWCSxGgQMEVgLq",
+            "success": true,
+            "amount": "117000000000000",
+            "timestamp": "2021-06-22T16:32:06.002000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "16AF7zYfPCPN6J7XsQGqRVoDqrnfdLz2roXWCSxGgQMEVgLq",
+            "success": true,
+            "amount": "557000000000000",
+            "timestamp": "2021-06-19T15:48:30.000000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "13KJ3t8w1CKMkXCmZ6s3VwdWo4h747kXE88ZNh6rCBTvojmM",
+            "toId": "16AF7zYfPCPN6J7XsQGqRVoDqrnfdLz2roXWCSxGgQMEVgLq",
+            "success": true,
+            "amount": "61720000000000",
+            "timestamp": "2021-06-19T15:47:42.000000Z"
+          }
+        }
+      ]
+    }
+  },
+  "moonbeam": {
+    "accountById": null
+  },
+  "astar": {
+    "accountById": {
+      "id": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+      "transfers": [
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "toId": "ZnVTTLGh3dmBf7g3e3HGoE6aa551m6tCv4vFwp7sXjDAvgs",
+            "success": true,
+            "amount": "2216000000000000000000000",
+            "timestamp": "2022-01-21T15:26:18.510000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "toId": "ZnVTTLGh3dmBf7g3e3HGoE6aa551m6tCv4vFwp7sXjDAvgs",
+            "success": true,
+            "amount": "5000000000000000000000",
+            "timestamp": "2022-01-17T12:21:30.810000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "toId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "success": true,
+            "amount": "5000000000000000000000",
+            "timestamp": "2022-01-17T12:20:30.262000Z"
+          }
+        },
+        {
+          "direction": "TO",
+          "transfer": {
+            "fromId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "toId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "success": true,
+            "amount": "5000000000000000000000",
+            "timestamp": "2022-01-17T12:20:30.262000Z"
+          }
+        },
+        {
+          "direction": "FROM",
+          "transfer": {
+            "fromId": "YFbLqqwvegzXpE65mGAPSxe2VQaL2u8ApuDT7KMWTSND8Hk",
+            "toId": "ZnVTTLGh3dmBf7g3e3HGoE6aa551m6tCv4vFwp7sXjDAvgs",
+            "success": true,
+            "amount": "25570000000000000000000000",
+            "timestamp": "2022-01-17T12:18:42.372000Z"
+          }
+        }
+      ]
+    }
+  }
+}
